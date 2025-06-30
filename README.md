@@ -1,6 +1,6 @@
-# market-basket-analysis-tech-retail
-Market Basket Analysis using Apriori for a tech retail dataset to identify cross-sell opportunities, using Python and data visualization.
 # 🛒 Market Basket Analysis for Tech Retail
+Market Basket Analysis using Apriori for a tech retail dataset to identify cross-sell opportunities, using Python and data visualization.
+
 
 This project uses **Market Basket Analysis with the Apriori algorithm** on a simulated **tech retail environment dataset** to identify **cross-sell opportunities** and actionable business strategies for maximizing basket value in retail.
 
